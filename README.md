@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" alt="HyperJS"/>
 </div>
 
-- Learning automation and devops
-
 ### 🤔 I’m looking for help with
 
 - Learning automation and devops
@@ -44,9 +42,6 @@
 <div display="flex">
   <a href="https://www.linkedin.com/in/cmedinadeveloper/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
