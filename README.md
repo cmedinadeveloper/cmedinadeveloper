@@ -17,7 +17,7 @@
 
 ### 🔭 I’m working on
 
-- Software Engineer at Fandom.
+- Shooter-looter demo game with Unity
 - Personal projects!
 
 ### 🌱 I’m learning
